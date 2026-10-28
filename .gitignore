@@ -55,6 +55,7 @@ $RECYCLE.BIN/
 *.so
 *.swo
 *.swp
+temp_auto_push.bat
 *.swn
 *.swm
 *.out
@@ -112,4 +113,5 @@ license.txt
 exports
 .cache
 build
+.gitignore
 branch_structure.json
